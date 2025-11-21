@@ -8,7 +8,7 @@
 
 <h3 align="left">I'm a Final-year B.Tech CSE student passionate about Full-stack web development and AI-integrated web solutions. <br><br>Currently enrolled in Sheryians Cohort 2.0, where I'm focusing on mastering the MERN stack, improving my Data Structures & Algorithms, and building real-world projects.<br><br>I enjoy turning ideas into interactive and efficient digital experiences using modern tools and frameworks.</h3>
 
-###
+### 
 
 <h3 align="left">💻 Tech Stack & Tools</h3>
 
