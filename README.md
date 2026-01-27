@@ -10,7 +10,7 @@
 
 ### 
 
-<h3 align="left">💻 Tech Stack & Tools</h3>  
+<h3 align="left">💻 Tech Stack & Tools</h3>   
 
 ### 
 
