@@ -16,7 +16,7 @@ const sahil = {
   education:    "B.Tech CSE — Final Year",
   cohort:       "Sheryians Cohort 2.0",
   focus:        ["Full-Stack Development", "AI-Integrated Web Apps", "DSA"],
-  stack:        ["MERN", "Next.js", "Three.js", "Tailwind CSS"],
+  stack:        ["MERN", "Next.js", "Tailwind CSS"],
   currentGoal:  "Ship real-world projects & master system design",
   funFact:      "I debug best with lo-fi music 🎵",
 };
@@ -25,7 +25,7 @@ const sahil = {
 - 🎓 Final-year **B.Tech Computer Science** student
 - 🚀 Currently levelling up through **Sheryians Cohort 2.0** — MERN Stack & DSA
 - 🤖 Passionate about building **AI-powered web experiences**
-- 🌱 Exploring **Three.js**, **Next.js**, and **system design patterns**
+- 🌱 Exploring  **Next.js**, and **system design patterns**
 - 💬 Always up for collaboration on meaningful projects
 
 ---
@@ -42,7 +42,6 @@ const sahil = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
