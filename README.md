@@ -20,7 +20,7 @@ const sahil = {
   currentGoal:  "Ship real-world projects & master system design",
   funFact:      "I debug best with lo-fi music 🎵",
 };
-```
+``` 
 
 - 🎓 Final-year **B.Tech Computer Science** student
 - 🚀 Currently levelling up through **Sheryians Cohort 2.0** — MERN Stack & DSA
